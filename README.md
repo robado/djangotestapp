@@ -25,3 +25,6 @@ what I have though on what my app should be able to do are the following:
 **Admin**
 * Can view all the backend
 * Can see other users API data
+
+# How To Run This App
+    $ python manage.py runserver
