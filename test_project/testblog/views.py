@@ -15,7 +15,11 @@ posts = [
         'author': 'Sinkki',
         'title': 'Sinkin Blogi',
         'content': 'Test Blog Post Toinen',
-        'date_posted': 'Uusikuusi 22, 1991'
+        'date_posted': 'Uus'
+                       ''
+                       ''
+                       ''
+                       'ikuusi 22, 1991'
     }
 ]
 
