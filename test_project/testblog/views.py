@@ -39,7 +39,7 @@ was missing a \"blog\" directory from templates'''
 
 
 def about(request):
-    return render(request, 'blog/about.html')
+    return render(request, 'blog/about.html', {'title': 'About title'})
 
 
 def third(request):
